@@ -2,7 +2,7 @@
 
 ## Gra edukacyjno-zrecznosciowa
 
-## Autorzy: Mateusz Rybak @mdlejtecole i Bartosz Brzozowski @reakwonpl
+## Autorzy: Mateusz Rybak @MdLejTeCole i Bartosz Brzozowski @reakwonpl
 
 Nasza gra wzorowana jest na typową grę Snake. Różni się ona jednak tym, że posiada element edukacyjny. Do wyboru, są trzy kategorię ortografia, matematyka i język angielski. Aktualna wersja umożliwa granie jedynie w kategorię ortografia. Na każdym etapie gry pojawiają się dwa pola z literami alfabetu, a rolą gracza jest wybranie odpowiedniej litery, aby utworzyć poprawnie gramatyczny wyraz. Zadaniem gracza, jest uzbierać jak największą ilość punktów. A wszystko odbywa się, w towarzystwie relaksacyjnej muzyki i efektów dzwiękowych.
 
