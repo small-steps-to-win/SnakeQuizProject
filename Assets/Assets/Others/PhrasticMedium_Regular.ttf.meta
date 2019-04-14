@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ba4ac08d544498d429db9b60fd4d08db
+timeCreated: 1513985175
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: PhrasticMedium
+  fontNames:
+  - PhrasticMedium
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

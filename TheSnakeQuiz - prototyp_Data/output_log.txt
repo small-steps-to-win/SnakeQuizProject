@@ -1,0 +1,108 @@
+Initialize engine version: 5.6.1f1 (2860b30f0b54)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce 920MX (ID=0x134f)
+    Vendor:   NVIDIA
+    VRAM:     2020 MB
+    Driver:   22.21.13.8264
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.025 seconds
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\barto\Desktop\Nowy folder\Interfejs\Interfejs\TheQuizSnakeProject\SnakeQuizProject\TheSnakeQuiz - prototyp_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 3286x1080 at -1366,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.378984 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.870288 ms
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.367786 ms (FindLiveObjects: 0.028159 ms CreateObjectMapping: 0.026453 ms MarkObjects: 0.262399 ms  DeleteObjects: 0.049919 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.642985 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.392532 ms (FindLiveObjects: 0.031999 ms CreateObjectMapping: 0.031999 ms MarkObjects: 0.296532 ms  DeleteObjects: 0.031573 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.460372 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.339199 ms (FindLiveObjects: 0.029866 ms CreateObjectMapping: 0.026453 ms MarkObjects: 0.236373 ms  DeleteObjects: 0.045226 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.417279 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.398932 ms (FindLiveObjects: 0.037119 ms CreateObjectMapping: 0.029866 ms MarkObjects: 0.307199 ms  DeleteObjects: 0.024319 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.637439 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 0.382719 ms (FindLiveObjects: 0.033279 ms CreateObjectMapping: 0.030719 ms MarkObjects: 0.274772 ms  DeleteObjects: 0.043093 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.526505 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.431786 ms (FindLiveObjects: 0.036693 ms CreateObjectMapping: 0.029013 ms MarkObjects: 0.338346 ms  DeleteObjects: 0.026879 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.538025 ms
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 342.
+Total: 0.351999 ms (FindLiveObjects: 0.031999 ms CreateObjectMapping: 0.029866 ms MarkObjects: 0.240213 ms  DeleteObjects: 0.049066 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.434772 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 403.
+Total: 0.416426 ms (FindLiveObjects: 0.037119 ms CreateObjectMapping: 0.029439 ms MarkObjects: 0.319999 ms  DeleteObjects: 0.028159 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.547839 ms
+
+Unloading 16 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 0.381012 ms (FindLiveObjects: 0.035839 ms CreateObjectMapping: 0.028159 ms MarkObjects: 0.273066 ms  DeleteObjects: 0.043093 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.437759 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 374.
+Total: 0.370772 ms (FindLiveObjects: 0.029013 ms CreateObjectMapping: 0.024319 ms MarkObjects: 0.290559 ms  DeleteObjects: 0.026453 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.927998 ms
+
+Unloading 7 unused Assets to reduce memory usage. Loaded Objects now: 587.
+Total: 0.392106 ms (FindLiveObjects: 0.033279 ms CreateObjectMapping: 0.027733 ms MarkObjects: 0.309332 ms  DeleteObjects: 0.020479 ms)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.621757 ms
+
+Unloading 1 unused Assets to reduce memory usage. Loaded Objects now: 587.
+Total: 0.350719 ms (FindLiveObjects: 0.055039 ms CreateObjectMapping: 0.029013 ms MarkObjects: 0.259839 ms  DeleteObjects: 0.005973 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.622932 ms
+
+Unloading 130 unused Assets to reduce memory usage. Loaded Objects now: 408.
+Total: 20.967653 ms (FindLiveObjects: 0.046079 ms CreateObjectMapping: 0.042666 ms MarkObjects: 0.337492 ms  DeleteObjects: 20.540560 ms)
+
+Setting up 2 worker threads for Enlighten.
+  Thread -> id: 5c8 -> priority: 1 
+  Thread -> id: 32d8 -> priority: 1 
